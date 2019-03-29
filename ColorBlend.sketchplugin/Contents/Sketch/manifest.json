@@ -1,0 +1,26 @@
+{
+  "name": "Color Blend",
+  "bundleName": "Color Blend",
+  "author" : "",
+  "icon": "icon.png",
+  "commands" : [
+    {
+      "script" : "script.cocoascript",
+      "name" : "ColorBlend",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "ColorBlend",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.example.sketch.54b37158-44c3-4b94-bdb8-79186a81d6da",
+  "version" : "1.0",
+  "description" : "A plugin that returns one color based on a two-color blend",
+  "authorEmail" : "mauro.e.zurlo@gmail.com"
+}
