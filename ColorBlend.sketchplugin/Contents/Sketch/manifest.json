@@ -1,7 +1,7 @@
 {
   "name": "Color Blend",
   "bundleName": "Color Blend",
-  "author" : "",
+  "author" : "Mauro Zurlo",
   "icon": "icon.png",
   "commands" : [
     {
